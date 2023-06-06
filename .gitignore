@@ -2,3 +2,4 @@
 *.DStore
 ~*
 *.RData
+.Rhistory
